@@ -1,6 +1,6 @@
 ---
 title: "Meu primeiro Relatório"
-author: "André Leite"
+author: "Filipe Artur Honorato"
 date: "12/11/2021"
 output: html_document
 ---

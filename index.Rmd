@@ -1,6 +1,6 @@
 ---
-title: "Your Document Title"
-author: "Document Author"
+title: "Meu primeiro R"
+author: "Filipe Artur Honorato"
 date: "`r Sys.Date()`"
 output_dir: "."
 output:
@@ -9,9 +9,9 @@ output:
     highlight: github
 ---
 
-## A New Output Format
+## Meu primeiro exercício em R
 
-> Minha frase importante
+> Uma frase bem bonita e impactante
 
 Lista:
 
